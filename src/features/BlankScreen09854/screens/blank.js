@@ -63,6 +63,7 @@ export class _Blank extends React.Component {
       <Button
         style={{
           width: "20%",
+          height: 100,
           marginLeft: 0,
           marginRight: 0,
           marginTop: 5,
@@ -72,7 +73,7 @@ export class _Blank extends React.Component {
           paddingTop: 5,
           paddingBottom: 5,
           overflow: "visible",
-          textAlign: "center",
+          textAlign: "left",
           verticalAlign: "baseline",
           fontSize: 12,
           color: "#000000",
